@@ -1,0 +1,1 @@
+ C:\\Users\\asus\\Documents\\Projects\\vscode\\flutter\\febrianiuts\\.dart_tool\\flutter_build\\1d34d14316f75f7b40e963bb07c4f19e\\native_assets.yaml: 
